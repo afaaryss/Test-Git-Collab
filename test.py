@@ -1,0 +1,1 @@
+print("Halo, ini proyek kelompok kami!")
